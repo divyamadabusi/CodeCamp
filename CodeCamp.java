@@ -1,18 +1,3 @@
-//  CodeCamp.java - CS314 Assignment 1
-
-/*  Student information for assignment:
- *
- *  Replace <NAME> with your name.
- *
- *  On my honor, Divya Madabusi, this programming assignment is my own work
- *  and I have not provided this code to any other student.
- *
- *  Name: Divya Madabusi
- *  email address: djm5892@my.utexas.edu
- *  UTEID: djm5892
- *  Section 5 digit ID: 54620
- *  Number of slip days used on this assignment: 0
- */
 public class CodeCamp {
     //constants
     public static final int NUM_EXPERIMENTS_1 = 1000000;
